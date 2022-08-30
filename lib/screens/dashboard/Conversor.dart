@@ -14,8 +14,6 @@ class _ConversorState extends State<Conversor> {
   String dropdownValue2 = 'Quilômetros';
   double top = 0.0;
   double valorConversao = 0;
-  double valorLog = 0;
-  static String logTeste = '';
 
   List<String> imperiais = ["Milhas", "Jardas"];
 

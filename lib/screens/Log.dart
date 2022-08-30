@@ -9,7 +9,6 @@ class Log extends StatefulWidget {
 
 class _LogState extends State<Log> {
   String logString = '';
-  int tmn = 0;
 
   @override
   Widget build(BuildContext context) {
